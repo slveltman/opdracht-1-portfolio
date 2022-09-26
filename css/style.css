@@ -1,0 +1,64 @@
+body,html{
+  width:100%;
+  height:100%;
+  Display:grid;
+  place-items: center;
+  background-image: url(https://www.basmeelker.nl/wp-content/uploads/2014/11/Foto-Skyline-Rotterdam-Erasmusbrug.jpg);
+  background-width:50%;
+  background-size: cover;
+    background-size: cover;
+    background-attachment:fixed;
+    margin:0;
+    padding:0;
+  
+    
+}
+
+body {
+  background-color: beige;
+  margin: 50px;
+  text-align: left
+  font-family: verdana;
+}
+h1{ 
+text-align: center;}
+th {
+  background-color: blue;
+}
+tr {
+  background-color: yellow;
+}
+
+a:hover{color: red;}
+
+.car {
+  width: 60vw;
+  margin: 0 auto;
+  border: 7px solid blue;
+  background-color: beige;
+  border-radius: 50px;
+  overflow: hidden;
+  box-shadow: 20px 30px 20px rgba(0, 0, 0, 0.2);
+}
+
+.clublogo {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
+
+footer{
+  text-align: center;
+  width: 30vw;
+  margin: 0 auto;
+  border: 7px solid purple;
+  background-color: beige;
+  border-radius: 100px;
+  overflow: hidden;
+  box-shadow: 20px 30px 20px rgba(0, 0, 0, 0.2);
+}
+.tabel{
+  text-align: center
+}
